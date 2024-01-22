@@ -117,7 +117,7 @@ When you run npm start, a script will be executed to download data, process it, 
 4. To add a stock to favourites use this endpoint http://localhost:8000/api/stocks/favourites/add/:id (POST)
 
 <div align="center">
-  <img src="https://github.com/ujjwal-7/stock-price-app/assets/91021747/3c3992f0-8b3b-4653-ac75-fc9615226701" alt="add-to-favourites" height="400">
+  <img src="https://github.com/ujjwal-7/stock-price-app/assets/91021747/3c3992f0-8b3b-4653-ac75-fc9615226701" alt="add-to-favourites" height="400" width="800">
 </div>
 
 5. To see favourite stocks use this endpoint http://localhost:8000/api/stocks/favourites (GET)
@@ -129,5 +129,5 @@ When you run npm start, a script will be executed to download data, process it, 
 6. To remove a stock from favourites use this endpoint http://localhost:8000/api/stocks/favourites/delete/:id (DELETE)
 
 <div align="center">
-  <img src="https://github.com/ujjwal-7/stock-price-app/assets/91021747/541943b4-d7ab-4abc-bed3-89761c727281" alt="top-10-high" height="400">
+  <img src="https://github.com/ujjwal-7/stock-price-app/assets/91021747/541943b4-d7ab-4abc-bed3-89761c727281" alt="top-10-high" height="400" width="800">
 </div>
